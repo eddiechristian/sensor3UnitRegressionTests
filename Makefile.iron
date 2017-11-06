@@ -1,0 +1,28 @@
+ROOT_DIR	:= $(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
+DOCKER		?= docker
+
+REGISTRY	?= 217386048230.dkr.ecr.us-east-1.amazonaws.com
+
+BUILD_ENV_IMAGE_NAME	?= suricata/build
+BUILD_ENV_TAG			?= v0.12
+
+IMAGE_NAME	?= suricata
+TAG			?= latest
+
+.DEFAULT: all
+.PHONY: all build clean
+
+all: build
+
+build:
+	$(DOCKER) run --rm \
+		-v $(ROOT_DIR):/build/mnt \
+		$(REGISTRY)/$(BUILD_ENV_IMAGE_NAME):$(BUILD_ENV_TAG) \
+		/build/mnt/build.sh
+
+clean:
+	rm -rf target
+	$(DOCKER) run --rm \
+		-v $(ROOT_DIR):/build/mnt \
+		$(REGISTRY)/$(BUILD_ENV_IMAGE_NAME):$(BUILD_ENV_TAG) \
+		bash -c '[[ -f Makefile ]] && make clean'

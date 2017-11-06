@@ -1,0 +1,2976 @@
+{
+id {
+  value: "\353\213\373\364\342\027Cz\252]0v\333\275\246q"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590881
+  nanos: 729531
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 59791
+}
+src_country_code {
+}
+src_packets: 1
+src_header_bytes: 42
+src_payload_bytes: 152
+src_payload_entropy: 0.61335095070947621
+dst_ip {
+  value: "\n(\re"
+}
+dst_port {
+  value: 53
+}
+dst_country_code {
+}
+dst_packets: 1
+dst_header_bytes: 42
+dst_payload_bytes: 70
+dst_payload_entropy: 0.58836837210144721
+trans_protocol: UDP
+primary_app_protocol: DNS
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+abs_start_time {
+  seconds: 1503590881
+  nanos: 722086
+}
+
+}
+{
+id {
+  value: "\253\216cg-\375J\014\246\t\261p\226t\302\300"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590914
+  nanos: 4629
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57790
+}
+src_country_code {
+}
+src_packets: 13
+src_header_bytes: 866
+src_payload_bytes: 2297
+src_payload_entropy: 0.94155282921375694
+dst_ip {
+  value: "\n(\017\345"
+}
+dst_port {
+  value: 8089
+}
+dst_country_code {
+}
+dst_packets: 11
+dst_header_bytes: 726
+dst_payload_bytes: 857
+dst_payload_entropy: 0.89430537596507009
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590912
+  nanos: 510462
+}
+
+}
+{
+id {
+  value: "!\n\200\220\315\025G\216\277\361\2513\020\347\021\034"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590832
+  nanos: 102659
+}
+src_ip {
+  value: "\n(\017\345"
+}
+src_port {
+  value: 8089
+}
+src_country_code {
+}
+dst_ip {
+  value: "\n3\014G"
+}
+dst_port {
+  value: 57752
+}
+dst_country_code {
+}
+dst_packets: 1
+dst_header_bytes: 66
+dst_payload_bytes: 37
+dst_payload_entropy: 0.63766815719010561
+trans_protocol: TCP
+abs_start_time {
+  seconds: 1503590832
+  nanos: 102659
+}
+
+}
+{
+id {
+  value: "unz\2117\201Kg\260\030!hl\020\222!"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590831
+  nanos: 49556
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57762
+}
+src_country_code {
+}
+src_packets: 9
+src_header_bytes: 602
+src_payload_bytes: 2318
+src_payload_entropy: 0.9476479897057134
+dst_ip {
+  value: "\n(\017\345"
+}
+dst_port {
+  value: 8089
+}
+dst_country_code {
+}
+dst_packets: 12
+dst_header_bytes: 816
+dst_payload_bytes: 853
+dst_payload_entropy: 0.89874557368976193
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590830
+  nanos: 997221
+}
+
+}
+{
+id {
+  value: "\266\342\246\202\347\'G\026\216\301\\\200\203\206~:"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590909
+  nanos: 477133
+}
+src_ip {
+  value: "J}\026\275"
+}
+src_port {
+  value: 443
+}
+src_country_code {
+  value: 840
+}
+src_packets: 18
+src_header_bytes: 756
+src_payload_bytes: 956
+src_payload_entropy: 0.94011806433315148
+dst_ip {
+  value: "\n3\014G"
+}
+dst_port {
+  value: 59464
+}
+dst_country_code {
+}
+dst_packets: 23
+dst_header_bytes: 966
+dst_payload_bytes: 1124
+dst_payload_entropy: 0.97074171295563039
+trans_protocol: UDP
+abs_start_time {
+  seconds: 1503590827
+  nanos: 209633
+}
+
+}
+{
+id {
+  value: "\350\266\212\247\326\024G\355\212\024b41|\263\264"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590871
+  nanos: 761461
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57776
+}
+src_country_code {
+}
+src_packets: 9
+src_header_bytes: 602
+src_payload_bytes: 2187
+src_payload_entropy: 0.94462193118295767
+dst_ip {
+  value: "\n(\017\345"
+}
+dst_port {
+  value: 8089
+}
+dst_country_code {
+}
+dst_packets: 12
+dst_header_bytes: 804
+dst_payload_bytes: 852
+dst_payload_entropy: 0.89890696172753692
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590871
+  nanos: 718915
+}
+
+}
+{
+id {
+  value: "\302\327IXD\333E\374\206\202\251F\020\307\224("
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590879
+  nanos: 247416
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57768
+}
+src_country_code {
+}
+src_packets: 13
+src_header_bytes: 866
+src_payload_bytes: 2725
+src_payload_entropy: 0.9566631878336358
+dst_ip {
+  value: "\n(\017\345"
+}
+dst_port {
+  value: 8089
+}
+dst_country_code {
+}
+dst_packets: 17
+dst_header_bytes: 1122
+dst_payload_bytes: 1419
+dst_payload_entropy: 0.94602542129889089
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590851
+  nanos: 108230
+}
+
+}
+{
+id {
+  value: "7\336,k\376\233M)\275\332\352U\276i\223\373"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590856
+  nanos: 511088
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57773
+}
+src_country_code {
+}
+src_packets: 9
+src_header_bytes: 602
+src_payload_bytes: 2186
+src_payload_entropy: 0.94493076502113771
+dst_ip {
+  value: "\n(\017\345"
+}
+dst_port {
+  value: 8089
+}
+dst_country_code {
+}
+dst_packets: 12
+dst_header_bytes: 804
+dst_payload_bytes: 855
+dst_payload_entropy: 0.90096405662378332
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590856
+  nanos: 471137
+}
+
+}
+{
+id {
+  value: "2\315\371\220\374\212M\214\210\266B\347k\360\033\240"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590837
+  nanos: 972971
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 5353
+}
+src_country_code {
+}
+dst_ip {
+  value: "\340\000\000\373"
+}
+dst_port {
+  value: 5353
+}
+dst_country_code {
+}
+dst_packets: 1
+dst_header_bytes: 42
+dst_payload_bytes: 40
+dst_payload_entropy: 0.42284216368811756
+trans_protocol: UDP
+abs_start_time {
+  seconds: 1503590837
+  nanos: 972971
+}
+
+}
+{
+id {
+  value: "\252d\031e#\204L\004\242sD\232\226`\232y"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590895
+  nanos: 565934
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 56187
+}
+src_country_code {
+}
+src_packets: 3
+src_header_bytes: 198
+src_payload_bytes: 159
+src_payload_entropy: 0.83644214022856767
+dst_ip {
+  value: "\010(\3369"
+}
+dst_port {
+  value: 443
+}
+dst_country_code {
+  value: 840
+}
+dst_packets: 6
+dst_header_bytes: 396
+dst_payload_bytes: 159
+dst_payload_entropy: 0.81855307772686736
+trans_protocol: TCP
+abs_start_time {
+  seconds: 1503590835
+  nanos: 686226
+}
+
+}
+{
+id {
+  value: "\242\221\000 \324PF\312\2463\243sO\017\302\207"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590896
+  nanos: 120807
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 54722
+}
+src_country_code {
+}
+src_packets: 2
+src_header_bytes: 132
+dst_ip {
+  value: "J}\300\274"
+}
+dst_port {
+  value: 5228
+}
+dst_country_code {
+  value: 840
+}
+dst_packets: 2
+dst_header_bytes: 108
+trans_protocol: TCP
+abs_start_time {
+  seconds: 1503590845
+  nanos: 768162
+}
+
+}
+{
+id {
+  value: "\0314\017g)\233C\021\2206\024\314\267\032`C"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590862
+  nanos: 470166
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57764
+}
+src_country_code {
+}
+src_packets: 18
+src_header_bytes: 1196
+src_payload_bytes: 2446
+src_payload_entropy: 0.94062098222971313
+dst_ip {
+  value: "\n(\017\345"
+}
+dst_port {
+  value: 8089
+}
+dst_country_code {
+}
+dst_packets: 11
+dst_header_bytes: 726
+dst_payload_bytes: 854
+dst_payload_entropy: 0.89593025331167742
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590836
+  nanos: 44773
+}
+
+}
+{
+id {
+  value: "\241\206^\336\240lN\272\246\014m\255\r?\022\331"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590883
+  nanos: 817453
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57781
+}
+src_country_code {
+}
+src_packets: 6
+src_header_bytes: 404
+src_payload_bytes: 1596
+src_payload_entropy: 0.96367273130822362
+dst_ip {
+  value: "\n(\016t"
+}
+dst_port {
+  value: 443
+}
+dst_country_code {
+}
+dst_packets: 11
+dst_header_bytes: 738
+dst_payload_bytes: 1904
+dst_payload_entropy: 0.8858297042169363
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590883
+  nanos: 775320
+}
+
+}
+{
+id {
+  value: "\305z\000+p\351J\274\263\254M0\221\233\226\231"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590890
+  nanos: 582718
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57735
+}
+src_country_code {
+}
+src_packets: 17
+src_header_bytes: 1122
+src_payload_bytes: 4686
+src_payload_entropy: 0.99182059961500424
+dst_ip {
+  value: "\027\332ro"
+}
+dst_port {
+  value: 443
+}
+dst_country_code {
+  value: 840
+}
+dst_packets: 32
+dst_header_bytes: 2100
+dst_payload_bytes: 5470
+dst_payload_entropy: 0.9943669437439232
+trans_protocol: TCP
+abs_start_time {
+  seconds: 1503590820
+  nanos: 186703
+}
+
+}
+{
+id {
+  value: ".l\326|?SJ&\234=\376\341\224\221\332\000"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590915
+  nanos: 253763
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57737
+}
+src_country_code {
+}
+src_packets: 2
+src_header_bytes: 132
+dst_ip {
+  value: "\254\331\nn"
+}
+dst_port {
+  value: 443
+}
+dst_country_code {
+  value: 840
+}
+dst_packets: 2
+dst_header_bytes: 108
+trans_protocol: TCP
+abs_start_time {
+  seconds: 1503590868
+  nanos: 839852
+}
+
+}
+{
+id {
+  value: "ld\372U\215\211J\226\256\330+J\277S\220Y"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590904
+  nanos: 454168
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57787
+}
+src_country_code {
+}
+src_packets: 7
+src_header_bytes: 470
+src_payload_bytes: 2104
+src_payload_entropy: 0.97453404643552743
+dst_ip {
+  value: "\n(\016t"
+}
+dst_port {
+  value: 443
+}
+dst_country_code {
+}
+dst_packets: 11
+dst_header_bytes: 738
+dst_payload_bytes: 2099
+dst_payload_entropy: 0.89988796227727619
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590904
+  nanos: 407879
+}
+
+}
+{
+id {
+  value: "\036\213\324\202\215\271B8\224\001\000B\234\375\373\r"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590837
+  nanos: 189741
+}
+src_ip {
+  value: "\n(\017\345"
+}
+src_port {
+  value: 8089
+}
+src_country_code {
+}
+dst_ip {
+  value: "\n3\014G"
+}
+dst_port {
+  value: 57753
+}
+dst_country_code {
+}
+dst_packets: 2
+dst_header_bytes: 132
+dst_payload_bytes: 74
+dst_payload_entropy: 0.63091140043334892
+trans_protocol: TCP
+abs_start_time {
+  seconds: 1503590823
+  nanos: 910843
+}
+
+}
+{
+id {
+  value: "\233,\3619\347\321B\311\205fJ\032\332<u\376"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590881
+  nanos: 729534
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 63783
+}
+src_country_code {
+}
+src_packets: 1
+src_header_bytes: 42
+src_payload_bytes: 298
+src_payload_entropy: 0.586000640444975
+dst_ip {
+  value: "\n(\re"
+}
+dst_port {
+  value: 53
+}
+dst_country_code {
+}
+dst_packets: 1
+dst_header_bytes: 42
+dst_payload_bytes: 70
+dst_payload_entropy: 0.58257352835531062
+trans_protocol: UDP
+primary_app_protocol: DNS
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+abs_start_time {
+  seconds: 1503590881
+  nanos: 721211
+}
+
+}
+{
+id {
+  value: "6\3529\210\n4K\334\245*\215\034\276\374\336\261"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590902
+  nanos: 362996
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57786
+}
+src_country_code {
+}
+src_packets: 9
+src_header_bytes: 602
+src_payload_bytes: 2186
+src_payload_entropy: 0.94716583766096951
+dst_ip {
+  value: "\n(\017\345"
+}
+dst_port {
+  value: 8089
+}
+dst_country_code {
+}
+dst_packets: 12
+dst_header_bytes: 804
+dst_payload_bytes: 853
+dst_payload_entropy: 0.9017187490650731
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590902
+  nanos: 321088
+}
+
+}
+{
+id {
+  value: "\t\373A\333\225\267H\275\247(\272\025e\332\277\353"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590905
+  nanos: 347075
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57783
+}
+src_country_code {
+}
+src_packets: 17
+src_header_bytes: 1130
+src_payload_bytes: 2408
+src_payload_entropy: 0.94174812189187407
+dst_ip {
+  value: "\n(\017\345"
+}
+dst_port {
+  value: 8089
+}
+dst_country_code {
+}
+dst_packets: 11
+dst_header_bytes: 726
+dst_payload_bytes: 853
+dst_payload_entropy: 0.896667033249928
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590892
+  nanos: 96101
+}
+
+}
+{
+id {
+  value: "g\034\240\254]\355JR\210y\274\273j\206\374\366"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590887
+  nanos: 28951
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57782
+}
+src_country_code {
+}
+src_packets: 9
+src_header_bytes: 602
+src_payload_bytes: 2186
+src_payload_entropy: 0.94521450439893084
+dst_ip {
+  value: "\n(\017\345"
+}
+dst_port {
+  value: 8089
+}
+dst_country_code {
+}
+dst_packets: 12
+dst_header_bytes: 804
+dst_payload_bytes: 855
+dst_payload_entropy: 0.89583448841080138
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590886
+  nanos: 988530
+}
+
+}
+{
+id {
+  value: "\023\222/\311\013OJH\203\350\034\241+Y\226\310"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590881
+  nanos: 829939
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 61718
+}
+src_country_code {
+}
+src_packets: 1
+src_header_bytes: 42
+src_payload_bytes: 206
+src_payload_entropy: 0.55018576528708418
+dst_ip {
+  value: "\n(\rg"
+}
+dst_port {
+  value: 53
+}
+dst_country_code {
+}
+dst_packets: 1
+dst_header_bytes: 42
+dst_payload_bytes: 33
+dst_payload_entropy: 0.42294079784717892
+trans_protocol: UDP
+primary_app_protocol: DNS
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+abs_start_time {
+  seconds: 1503590881
+  nanos: 821341
+}
+
+}
+{
+id {
+  value: "n\300*\361\200\255I?\215\317(\345\327]mX"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590915
+  nanos: 36907
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 54720
+}
+src_country_code {
+}
+src_packets: 14
+src_header_bytes: 924
+src_payload_bytes: 1358
+src_payload_entropy: 0.96961013294470444
+dst_ip {
+  value: "\"\344\275y"
+}
+dst_port {
+  value: 443
+}
+dst_country_code {
+  value: 840
+}
+dst_packets: 22
+dst_header_bytes: 1452
+dst_payload_bytes: 695
+dst_payload_entropy: 0.89881644385716752
+trans_protocol: TCP
+abs_start_time {
+  seconds: 1503590825
+  nanos: 29979
+}
+
+}
+{
+id {
+  value: "\365\t\234\264\314\351G\304\262y\013@\356\315\210\t"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590874
+  nanos: 379376
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57759
+}
+src_country_code {
+}
+src_packets: 390747
+src_header_bytes: 25789310
+src_payload_bytes: 536880810
+src_payload_entropy: 0.9999999599879843
+dst_ip {
+  value: "P\371c\224"
+}
+dst_port {
+  value: 80
+}
+dst_country_code {
+  value: 826
+}
+dst_packets: 56255
+dst_header_bytes: 3759890
+dst_payload_bytes: 171
+dst_payload_entropy: 0.644075674724502
+trans_protocol: TCP
+primary_app_protocol: HTTP
+app_protocol_details {
+  http_protocol {
+    request {
+    }
+  }
+}
+app_protocol_details {
+  http_protocol {
+    response {
+    }
+  }
+}
+app_protocol_details {
+  http_protocol {
+    response {
+      file {
+        filename: "\\/512MB.zip"
+        state: "TRUNCATED"
+        size: 104144
+      }
+    }
+  }
+}
+abs_start_time {
+  seconds: 1503590822
+  nanos: 235848
+}
+
+}
+{
+id {
+  value: "\226 xq\036}KW\260\033E\232\t\336\205\265"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590910
+  nanos: 255768
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 54755
+}
+src_country_code {
+}
+src_packets: 21
+src_header_bytes: 1386
+src_payload_bytes: 7313
+src_payload_entropy: 0.9967633666877731
+dst_ip {
+  value: "\n(\rC"
+}
+dst_port {
+  value: 41002
+}
+dst_country_code {
+}
+dst_packets: 26
+dst_header_bytes: 1716
+dst_payload_bytes: 3426
+dst_payload_entropy: 0.98880825650940662
+trans_protocol: TCP
+abs_start_time {
+  seconds: 1503590842
+  nanos: 429776
+}
+
+}
+{
+id {
+  value: "\362\320\315\340\373\217Fu\205\344q\365\021\370It"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590866
+  nanos: 389535
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 52785
+}
+src_country_code {
+}
+src_packets: 1
+src_header_bytes: 42
+src_payload_bytes: 116
+src_payload_entropy: 0.5972710113560834
+dst_ip {
+  value: "\n(\re"
+}
+dst_port {
+  value: 53
+}
+dst_country_code {
+}
+dst_packets: 1
+dst_header_bytes: 42
+dst_payload_bytes: 41
+dst_payload_entropy: 0.47739736090145524
+trans_protocol: UDP
+primary_app_protocol: DNS
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+abs_start_time {
+  seconds: 1503590866
+  nanos: 382994
+}
+
+}
+{
+id {
+  value: "\343sS\237\002\272O\r\266\014X\231\2654]\237"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590881
+  nanos: 815560
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57779
+}
+src_country_code {
+}
+src_packets: 12
+src_header_bytes: 800
+src_payload_bytes: 6407
+src_payload_entropy: 0.94812960620244269
+dst_ip {
+  value: "6\341\251["
+}
+dst_port {
+  value: 443
+}
+dst_country_code {
+  value: 840
+}
+dst_packets: 15
+dst_header_bytes: 990
+dst_payload_bytes: 995
+dst_payload_entropy: 0.94749423032293079
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590881
+  nanos: 730611
+}
+
+}
+{
+id {
+  value: "\032\021W\236c\221A\202\206\340#\322+\2720\362"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590852
+  nanos: 315475
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57770
+}
+src_country_code {
+}
+src_packets: 2
+src_header_bytes: 140
+dst_ip {
+  value: "\n(\017\345"
+}
+dst_port {
+  value: 9997
+}
+dst_country_code {
+}
+dst_packets: 4
+dst_header_bytes: 276
+trans_protocol: TCP
+abs_start_time {
+  seconds: 1503590852
+  nanos: 299914
+}
+
+}
+{
+id {
+  value: "\355+\263\240\345\366J\206\237}\353\377\341\345\010\373"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590866
+  nanos: 389538
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 60551
+}
+src_country_code {
+}
+src_packets: 1
+src_header_bytes: 42
+src_payload_bytes: 116
+src_payload_entropy: 0.592807962379708
+dst_ip {
+  value: "\n(\re"
+}
+dst_port {
+  value: 53
+}
+dst_country_code {
+}
+dst_packets: 1
+dst_header_bytes: 42
+dst_payload_bytes: 41
+dst_payload_entropy: 0.46750372523731942
+trans_protocol: UDP
+primary_app_protocol: DNS
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+abs_start_time {
+  seconds: 1503590866
+  nanos: 382958
+}
+
+}
+{
+id {
+  value: "\2128;\205.\256F\347\271EHW\210\321\301M"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590834
+  nanos: 865307
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 54827
+}
+src_country_code {
+}
+src_packets: 1
+src_header_bytes: 42
+src_payload_bytes: 499
+src_payload_entropy: 0.53739324500371344
+dst_ip {
+  value: "\n(\re"
+}
+dst_port {
+  value: 53
+}
+dst_country_code {
+}
+dst_packets: 1
+dst_header_bytes: 42
+dst_payload_bytes: 35
+dst_payload_entropy: 0.4481112778145126
+trans_protocol: UDP
+primary_app_protocol: DNS
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+abs_start_time {
+  seconds: 1503590834
+  nanos: 854511
+}
+
+}
+{
+id {
+  value: "\344\352\332T\307\243G\007\203\315\203\257Q\234\300\351"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590892
+  nanos: 247552
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57784
+}
+src_country_code {
+}
+src_packets: 2
+src_header_bytes: 140
+dst_ip {
+  value: "\n(\017\345"
+}
+dst_port {
+  value: 9997
+}
+dst_country_code {
+}
+dst_packets: 4
+dst_header_bytes: 276
+trans_protocol: TCP
+abs_start_time {
+  seconds: 1503590892
+  nanos: 232478
+}
+
+}
+{
+id {
+  value: "\002\204\350#\300\002@\347\271\363\016\210\205Vs\336"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590867
+  nanos: 685507
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57765
+}
+src_country_code {
+}
+src_packets: 18
+src_header_bytes: 1196
+src_payload_bytes: 2446
+src_payload_entropy: 0.94137914653115107
+dst_ip {
+  value: "\n(\017\345"
+}
+dst_port {
+  value: 8089
+}
+dst_country_code {
+}
+dst_packets: 11
+dst_header_bytes: 726
+dst_payload_bytes: 855
+dst_payload_entropy: 0.90096137940694176
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590841
+  nanos: 146676
+}
+
+}
+{
+id {
+  value: "Q\313\352\252\"cGH\262i\345\201`\251l."
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590853
+  nanos: 706967
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57772
+}
+src_country_code {
+}
+src_packets: 6
+src_header_bytes: 404
+src_payload_bytes: 1596
+src_payload_entropy: 0.95966392274517243
+dst_ip {
+  value: "\n(\016t"
+}
+dst_port {
+  value: 443
+}
+dst_country_code {
+}
+dst_packets: 11
+dst_header_bytes: 738
+dst_payload_bytes: 1904
+dst_payload_entropy: 0.88740261649002694
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590853
+  nanos: 662373
+}
+
+}
+{
+id {
+  value: "\"\373X\215,wE?\241\375\325\336VXS\016"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590911
+  nanos: 263621
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57789
+}
+src_country_code {
+}
+src_packets: 7
+src_header_bytes: 470
+src_payload_bytes: 2522
+src_payload_entropy: 0.95719817345414793
+dst_ip {
+  value: "\n(\017\345"
+}
+dst_port {
+  value: 8089
+}
+dst_country_code {
+}
+dst_packets: 9
+dst_header_bytes: 606
+dst_payload_bytes: 944
+dst_payload_entropy: 0.90936774861393066
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590911
+  nanos: 228914
+}
+
+}
+{
+id {
+  value: "\310fT\022d\326L\235\234\373\177\246\260\223\353j"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590915
+  nanos: 247399
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57738
+}
+src_country_code {
+}
+src_packets: 2
+src_header_bytes: 132
+dst_ip {
+  value: "\330:\331N"
+}
+dst_port {
+  value: 443
+}
+dst_country_code {
+  value: 840
+}
+dst_packets: 2
+dst_header_bytes: 108
+trans_protocol: TCP
+abs_start_time {
+  seconds: 1503590868
+  nanos: 835607
+}
+
+}
+{
+id {
+  value: "\354+\275\243\326\217B5\222.\275\360\207}\241\021"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590913
+  nanos: 918322
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57788
+}
+src_country_code {
+}
+src_packets: 15
+src_header_bytes: 998
+src_payload_bytes: 2372
+src_payload_entropy: 0.94505545581111472
+dst_ip {
+  value: "\n(\017\345"
+}
+dst_port {
+  value: 8089
+}
+dst_country_code {
+}
+dst_packets: 11
+dst_header_bytes: 726
+dst_payload_bytes: 854
+dst_payload_entropy: 0.89681733462899083
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590907
+  nanos: 433407
+}
+
+}
+{
+id {
+  value: "\375>*nc\302@\335\271\357X\237\024\005i\003"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590846
+  nanos: 294985
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57766
+}
+src_country_code {
+}
+src_packets: 8
+src_header_bytes: 536
+src_payload_bytes: 2187
+src_payload_entropy: 0.94609022330507009
+dst_ip {
+  value: "\n(\017\345"
+}
+dst_port {
+  value: 8089
+}
+dst_country_code {
+}
+dst_packets: 11
+dst_header_bytes: 738
+dst_payload_bytes: 854
+dst_payload_entropy: 0.90417088484791575
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590846
+  nanos: 255582
+}
+
+}
+{
+id {
+  value: "+4\372\005\237\365A\236\252:L\336s+\343\223"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590823
+  nanos: 597686
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57760
+}
+src_country_code {
+}
+src_packets: 7
+src_header_bytes: 470
+src_payload_bytes: 1596
+src_payload_entropy: 0.95912657454031258
+dst_ip {
+  value: "\n(\016t"
+}
+dst_port {
+  value: 443
+}
+dst_country_code {
+}
+dst_packets: 11
+dst_header_bytes: 738
+dst_payload_bytes: 1904
+dst_payload_entropy: 0.88448143089124864
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590823
+  nanos: 555656
+}
+
+}
+{
+id {
+  value: "\362\363\213\316J\342@\354\277j\331\331G@\330c"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590866
+  nanos: 399017
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 50403
+}
+src_country_code {
+}
+src_packets: 1
+src_header_bytes: 42
+src_payload_bytes: 99
+src_payload_entropy: 0.57942693682105939
+dst_ip {
+  value: "\n(\re"
+}
+dst_port {
+  value: 53
+}
+dst_country_code {
+}
+dst_packets: 1
+dst_header_bytes: 42
+dst_payload_bytes: 24
+dst_payload_entropy: 0.32539363129151327
+trans_protocol: UDP
+primary_app_protocol: DNS
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+abs_start_time {
+  seconds: 1503590866
+  nanos: 390034
+}
+
+}
+{
+id {
+  value: "\\I\030\215\253\005I\200\222\321\367~\375J)\274"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590842
+  nanos: 779169
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 64547
+}
+src_country_code {
+}
+src_packets: 1
+src_header_bytes: 42
+src_payload_bytes: 48
+src_payload_entropy: 0.6212719401830431
+dst_ip {
+  value: "\306\220\302\014"
+}
+dst_port {
+  value: 123
+}
+dst_country_code {
+  value: 840
+}
+dst_packets: 1
+dst_header_bytes: 42
+dst_payload_bytes: 48
+dst_payload_entropy: 0.1613216497369474
+trans_protocol: UDP
+abs_start_time {
+  seconds: 1503590842
+  nanos: 684730
+}
+
+}
+{
+id {
+  value: "\202\001\321\262Z#D8\276\371c\3507\332\rw"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590897
+  nanos: 252047
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57785
+}
+src_country_code {
+}
+src_packets: 9
+src_header_bytes: 602
+src_payload_bytes: 2186
+src_payload_entropy: 0.94540967537115017
+dst_ip {
+  value: "\n(\017\345"
+}
+dst_port {
+  value: 8089
+}
+dst_country_code {
+}
+dst_packets: 12
+dst_header_bytes: 804
+dst_payload_bytes: 851
+dst_payload_entropy: 0.89808365692586878
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590897
+  nanos: 213546
+}
+
+}
+{
+id {
+  value: "o<1\345\025\247I\347\205\367-\367 \270\177c"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590852
+  nanos: 230136
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57761
+}
+src_country_code {
+}
+src_packets: 17
+src_header_bytes: 1130
+src_payload_bytes: 2446
+src_payload_entropy: 0.94466630327145606
+dst_ip {
+  value: "\n(\017\345"
+}
+dst_port {
+  value: 8089
+}
+dst_country_code {
+}
+dst_packets: 11
+dst_header_bytes: 726
+dst_payload_bytes: 854
+dst_payload_entropy: 0.90115279425959127
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590825
+  nanos: 963799
+}
+
+}
+{
+id {
+  value: "\3015;@;H@_\250\306j\227\245\263\031\277"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590877
+  nanos: 765614
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57769
+}
+src_country_code {
+}
+src_packets: 18
+src_header_bytes: 1196
+src_payload_bytes: 2445
+src_payload_entropy: 0.94307339130185386
+dst_ip {
+  value: "\n(\017\345"
+}
+dst_port {
+  value: 8089
+}
+dst_country_code {
+}
+dst_packets: 11
+dst_header_bytes: 726
+dst_payload_bytes: 854
+dst_payload_entropy: 0.90088371413680424
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590851
+  nanos: 362990
+}
+
+}
+{
+id {
+  value: "\372f)#\252\tMm\214\234\217=X\347\341\212"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590875
+  nanos: 377715
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57777
+}
+src_country_code {
+}
+src_packets: 6
+src_header_bytes: 404
+src_payload_bytes: 2104
+src_payload_entropy: 0.9709660937850183
+dst_ip {
+  value: "\n(\016t"
+}
+dst_port {
+  value: 443
+}
+dst_country_code {
+}
+dst_packets: 11
+dst_header_bytes: 738
+dst_payload_bytes: 2099
+dst_payload_entropy: 0.90108300512578221
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590875
+  nanos: 336972
+}
+
+}
+{
+id {
+  value: "\241m\031Xu\025J\303\266\350\014\267\027\353 \311"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590842
+  nanos: 309066
+}
+src_ip {
+  value: "\n(\017\345"
+}
+src_port {
+  value: 8089
+}
+src_country_code {
+}
+dst_ip {
+  value: "\n3\014G"
+}
+dst_port {
+  value: 57756
+}
+dst_country_code {
+}
+dst_packets: 3
+dst_header_bytes: 198
+dst_payload_bytes: 111
+dst_payload_entropy: 0.62160434806117493
+trans_protocol: TCP
+abs_start_time {
+  seconds: 1503590822
+  nanos: 382910
+}
+
+}
+{
+id {
+  value: "\205\343\351\215\232\223G\316\201(\305#\013\226\336\027"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590866
+  nanos: 650328
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57775
+}
+src_country_code {
+}
+src_packets: 9
+src_header_bytes: 602
+src_payload_bytes: 2187
+src_payload_entropy: 0.94209453700179313
+dst_ip {
+  value: "\n(\017\345"
+}
+dst_port {
+  value: 8089
+}
+dst_country_code {
+}
+dst_packets: 12
+dst_header_bytes: 804
+dst_payload_bytes: 850
+dst_payload_entropy: 0.8948704899888037
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590866
+  nanos: 609084
+}
+
+}
+{
+id {
+  value: "F1J\026\272\242L\022\231\346\210\260\214\220\273\331"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590837
+  nanos: 973007
+}
+src_ip {
+  value: "\376\200\000\000\000\000\000\000\030^\323\004\212\227,\276"
+}
+src_port {
+  value: 5353
+}
+src_country_code {
+}
+dst_ip {
+  value: "\377\002\000\000\000\000\000\000\000\000\000\000\000\000\000\373"
+}
+dst_port {
+  value: 5353
+}
+dst_country_code {
+}
+dst_packets: 1
+dst_header_bytes: 62
+dst_payload_bytes: 40
+dst_payload_entropy: 0.42284216368811756
+trans_protocol: UDP
+abs_start_time {
+  seconds: 1503590837
+  nanos: 973007
+}
+
+}
+{
+id {
+  value: "9GB\303\001\337Mn\264\035Z\316\210b\232\365"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590866
+  nanos: 398289
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 52103
+}
+src_country_code {
+}
+src_packets: 1
+src_header_bytes: 42
+src_payload_bytes: 99
+src_payload_entropy: 0.57419750569722561
+dst_ip {
+  value: "\n(\re"
+}
+dst_port {
+  value: 53
+}
+dst_country_code {
+}
+dst_packets: 1
+dst_header_bytes: 42
+dst_payload_bytes: 24
+dst_payload_entropy: 0.30849200369861468
+trans_protocol: UDP
+primary_app_protocol: DNS
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+abs_start_time {
+  seconds: 1503590866
+  nanos: 389997
+}
+
+}
+{
+id {
+  value: "[\347\276\330u\232F?\260\262\257\3148\267_F"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590852
+  nanos: 307337
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57771
+}
+src_country_code {
+}
+src_packets: 1
+src_header_bytes: 54
+src_payload_bytes: 2
+dst_ip {
+  value: "\n(\017\223"
+}
+dst_port {
+  value: 9997
+}
+dst_country_code {
+}
+dst_packets: 1
+dst_header_bytes: 78
+trans_protocol: TCP
+abs_start_time {
+  seconds: 1503590852
+  nanos: 299980
+}
+
+}
+{
+id {
+  value: "\270W\037\211\'\325IC\225\032\227\230\231\372YF"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590903
+  nanos: 401984
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57778
+}
+src_country_code {
+}
+src_packets: 18
+src_header_bytes: 1196
+src_payload_bytes: 2445
+src_payload_entropy: 0.94206172060916393
+dst_ip {
+  value: "\n(\017\345"
+}
+dst_port {
+  value: 8089
+}
+dst_country_code {
+}
+dst_packets: 11
+dst_header_bytes: 726
+dst_payload_bytes: 855
+dst_payload_entropy: 0.90409139579900366
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590876
+  nanos: 825504
+}
+
+}
+{
+id {
+  value: "\364\267\315\022C\316OB\255`?3Sn0\343"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590834
+  nanos: 986994
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57763
+}
+src_country_code {
+}
+src_packets: 9
+src_header_bytes: 602
+src_payload_bytes: 4694
+src_payload_entropy: 0.95661572557015484
+dst_ip {
+  value: "\"\311\337\321"
+}
+dst_port {
+  value: 443
+}
+dst_country_code {
+  value: 840
+}
+dst_packets: 11
+dst_header_bytes: 726
+dst_payload_bytes: 1088
+dst_payload_entropy: 0.79790174407784842
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590834
+  nanos: 866396
+}
+
+}
+{
+id {
+  value: "\014\322\336[_:KL\213\273\345\201\030\t\367\347"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590897
+  nanos: 456359
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 56535
+}
+src_country_code {
+}
+src_packets: 6
+src_header_bytes: 252
+src_payload_bytes: 2135
+src_payload_entropy: 0.98705546146981016
+dst_ip {
+  value: "\254\331\007\316"
+}
+dst_port {
+  value: 443
+}
+dst_country_code {
+  value: 840
+}
+dst_packets: 7
+dst_header_bytes: 294
+dst_payload_bytes: 2455
+dst_payload_entropy: 0.79645291601394486
+trans_protocol: UDP
+abs_start_time {
+  seconds: 1503590881
+  nanos: 831725
+}
+
+}
+{
+id {
+  value: "\327z\220\344\227\262K\005\256\220\246\346\n\330\030\200"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590915
+  nanos: 295719
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 54876
+}
+src_country_code {
+}
+src_packets: 130
+src_header_bytes: 8580
+src_payload_bytes: 271
+src_payload_entropy: 0.55445369570227576
+dst_ip {
+  value: "\n(\017\345"
+}
+dst_port {
+  value: 9997
+}
+dst_country_code {
+}
+dst_packets: 146
+dst_header_bytes: 9636
+dst_payload_bytes: 3912
+dst_payload_entropy: 0.92222323611858781
+trans_protocol: TCP
+abs_start_time {
+  seconds: 1503590819
+  nanos: 937627
+}
+
+}
+{
+id {
+  value: "\320\373\000\317r\206K\302\262\204\236\001]\010\370\201"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590834
+  nanos: 862432
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57387
+}
+src_country_code {
+}
+src_packets: 1
+src_header_bytes: 42
+src_payload_bytes: 116
+src_payload_entropy: 0.58767146097513834
+dst_ip {
+  value: "\n(\re"
+}
+dst_port {
+  value: 53
+}
+dst_country_code {
+}
+dst_packets: 1
+dst_header_bytes: 42
+dst_payload_bytes: 35
+dst_payload_entropy: 0.45970096530678589
+trans_protocol: UDP
+primary_app_protocol: DNS
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+app_protocol_details {
+  dns_protocol {
+    queries {
+    }
+  }
+}
+abs_start_time {
+  seconds: 1503590834
+  nanos: 854694
+}
+
+}
+{
+id {
+  value: "\357h\2040\232\236IZ\250p\236\273VT\262\337"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590861
+  nanos: 543481
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57774
+}
+src_country_code {
+}
+src_packets: 8
+src_header_bytes: 536
+src_payload_bytes: 2187
+src_payload_entropy: 0.94492042390031639
+dst_ip {
+  value: "\n(\017\345"
+}
+dst_port {
+  value: 8089
+}
+dst_country_code {
+}
+dst_packets: 11
+dst_header_bytes: 738
+dst_payload_bytes: 856
+dst_payload_entropy: 0.89808644286866235
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590861
+  nanos: 501821
+}
+
+}
+{
+id {
+  value: "\022;o\t\204dM\314\261^\365\371\200\374\2674"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590908
+  nanos: 294320
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57780
+}
+src_country_code {
+}
+src_packets: 18
+src_header_bytes: 1196
+src_payload_bytes: 2446
+src_payload_entropy: 0.943011804991729
+dst_ip {
+  value: "\n(\017\345"
+}
+dst_port {
+  value: 8089
+}
+dst_country_code {
+}
+dst_packets: 11
+dst_header_bytes: 726
+dst_payload_bytes: 854
+dst_payload_entropy: 0.90435748778884173
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590881
+  nanos: 882978
+}
+
+}
+{
+id {
+  value: "#Co\316@\333J\343\206\006%u\235\254TN"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590826
+  nanos: 981071
+}
+src_ip {
+  value: "\n(\017\345"
+}
+src_port {
+  value: 8089
+}
+src_country_code {
+}
+dst_ip {
+  value: "\n3\014G"
+}
+dst_port {
+  value: 57751
+}
+dst_country_code {
+}
+dst_packets: 1
+dst_header_bytes: 66
+dst_payload_bytes: 37
+dst_payload_entropy: 0.63091140043334881
+trans_protocol: TCP
+abs_start_time {
+  seconds: 1503590826
+  nanos: 981071
+}
+
+}
+{
+id {
+  value: "y6\3379\251\375A\213\264r\363m\006\025vR"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590846
+  nanos: 312841
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57767
+}
+src_country_code {
+}
+src_packets: 7
+src_header_bytes: 470
+src_payload_bytes: 2104
+src_payload_entropy: 0.97332225259656735
+dst_ip {
+  value: "\n(\016t"
+}
+dst_port {
+  value: 443
+}
+dst_country_code {
+}
+dst_packets: 11
+dst_header_bytes: 738
+dst_payload_bytes: 2099
+dst_payload_entropy: 0.90123461898059809
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590846
+  nanos: 266856
+}
+
+}
+{
+id {
+  value: "\244\027\034U\320GC\300\267i4G\342kVX"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590841
+  nanos: 683051
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 54644
+}
+src_country_code {
+}
+src_packets: 1
+src_header_bytes: 42
+src_payload_bytes: 48
+src_payload_entropy: 0.55756258224890221
+dst_ip {
+  value: "\201\006\017\035"
+}
+dst_port {
+  value: 123
+}
+dst_country_code {
+  value: 840
+}
+dst_packets: 1
+dst_header_bytes: 42
+dst_payload_bytes: 48
+dst_payload_entropy: 0.1613216497369474
+trans_protocol: UDP
+abs_start_time {
+  seconds: 1503590841
+  nanos: 671767
+}
+
+}
+{
+id {
+  value: "\232\323\003\341\262\222H\365\227/\017\250p\224\307A"
+}
+sensor_id {
+  value: "\000"
+}
+last_active {
+  seconds: 1503590913
+  nanos: 922344
+}
+src_ip {
+  value: "\n3\014G"
+}
+src_port {
+  value: 57791
+}
+src_country_code {
+}
+src_packets: 6
+src_header_bytes: 404
+src_payload_bytes: 1596
+src_payload_entropy: 0.96005668467603866
+dst_ip {
+  value: "\n(\016t"
+}
+dst_port {
+  value: 443
+}
+dst_country_code {
+}
+dst_packets: 11
+dst_header_bytes: 738
+dst_payload_bytes: 1904
+dst_payload_entropy: 0.884744553338384
+trans_protocol: TCP
+primary_app_protocol: SSL
+app_protocol_details {
+  tls_protocol {
+  }
+}
+abs_start_time {
+  seconds: 1503590913
+  nanos: 885162
+}
+
+}

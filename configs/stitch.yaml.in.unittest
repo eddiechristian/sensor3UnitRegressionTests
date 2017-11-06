@@ -1,0 +1,67 @@
+%YAML 1.1
+---
+
+# Stitch configuration file. Supports configurable number of worker threads,
+# and thread - CPU pinning options
+
+# Sensor identifiers for stats tracking
+name:
+    client: "IronNet"
+    datacenter: "RVA"
+    sensor_id: 0
+
+# logging, 2 will show info and errors. >2 shows debug messages
+# 0 will enter debug mode for json, 1 will enter debug mode for protobuf.
+# each debug mode will log each message type to the log file
+logging:
+    log-file: "/mnt/run/unit-stitch.log" #defaults to stdout
+    log-level: 0   #defaults to 0
+
+# The number of worker threads to allocate to each pool
+workers:
+    num-event-workers: 2
+    num-flow-workers: 2
+
+# The logical CPUs to bind each thread in each pool to
+cpu-set:
+    event-workers-cpu: [0,1]
+    flow-workers-cpu: [2,3]
+    recv-cpu: 0
+    appliance-Ironflow-cpu: 0
+    appliance-SensorStat-cpu: 0
+    appliance-SuriAlerts-cpu: 0
+
+# The NUMA set to bind each thread in each pool to
+numa-pool:
+    event-workers-numa: [0,0]
+    flow-workers-numa: [0,0]
+    recv-numa: 0
+    appliance-Ironflow-numa: 0
+    appliance-SensorStat-numa: 0
+    appliance-SuriAlerts-numa: 0
+
+# If the workers parse faster than their buffers can be filled, it can cause
+# significant contention on the head of the queue, introducing jitter at a
+# certain size can reduce the impact
+event-queue-jitter:
+    jitter-size: 50
+    jitter-time: 100    # in microseconds
+
+# Appliance service authentication information
+appliance-service:
+    address: "10.40.15.31:9444"
+    appliance-id: 0
+    queue-tx-id: 1
+    flow-topic: "ProtoFlows"
+    alert-topic: "SuricataAlerts"
+
+UDS: "/mnt/run/unittest.sock"
+
+backlog-size:
+    flow-queue:     100000
+    event-queue:    300000
+
+backoff-size:
+    flow-queue:     35000
+    event-queue:    50000
+    event-map:      200000
