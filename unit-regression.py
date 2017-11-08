@@ -87,12 +87,11 @@ def usage ():
 def test_flows_dns_http_tls(write_json, stitcher_version):
  flow_hash_digest = '097e2ea2a39062adb79f0b219aa19f94'
  stitcher_hash_digest = 'd41d8cd98f00b204e9800998ecf8427e'
- pcap_file = "/mnt/unittest/pcap/capture.pcap"
+ pcap_file = "/mnt/run/pcap/capture.pcap"
  cwd = os.getcwd()
  os.system("rm -f %s/eve.json; rm -f %s/stats.log; rm  -f %s/suricata.log; rm -f %s/packet_stats.log; rm -f %s/keyword_perf.log rm -f %s/fast.log" % (cwd, cwd, cwd, cwd, cwd, cwd))
- suricata_docker_run_cmd = "docker run --rm -it --privileged -v %s/:/var/log/suricata -v %s/:/mnt/unittest/ 217386048230.dkr.ecr.us-east-1.amazonaws.com/suricata:latest -c /mnt/unittest/configs/suricata.yaml.unittest -r %s" % (cwd, cwd, pcap_file)
+ suricata_docker_run_cmd = "docker run --rm -it --privileged -v %s/:/var/log/suricata 217386048230.dkr.ecr.us-east-1.amazonaws.com/suricata_regression:latest -c /mnt/run/configs/suricata.yaml.unittest -r %s" % (cwd, pcap_file)
  os.system(suricata_docker_run_cmd)
-
  flows = set([])
  filtered_lines = filterLines("%s/eve.json" % cwd)
 
@@ -124,7 +123,7 @@ def test_flows_dns_http_tls(write_json, stitcher_version):
    stitcher_hash.update(buf)
   if stitcher_hash.hexdigest() != stitcher_hash_digest:
    print "%s FAILED stitcher_hash_digest does not match: %s for stitcher" % (inspect.stack()[0][3], stitcher_hash.hexdigest())
-   sys.exit() 
+   sys.exit()
   else:
    print "%s PASSED " % (inspect.stack()[0][3] )
 

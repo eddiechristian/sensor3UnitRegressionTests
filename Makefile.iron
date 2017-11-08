@@ -6,8 +6,12 @@ REGISTRY	?= 217386048230.dkr.ecr.us-east-1.amazonaws.com
 BUILD_ENV_IMAGE_NAME	?= suricata/build
 BUILD_ENV_TAG			?= v0.12
 
+DOCKERFILE	?= $(ROOT_DIR)/Dockerfile
 IMAGE_NAME	?= suricata
 TAG			?= latest
+
+TEST_IMAGE_NAME	?= suricata_regression
+TEST_TAG		?= latest
 
 .DEFAULT: all
 .PHONY: all build clean
@@ -19,6 +23,17 @@ build:
 		-v $(ROOT_DIR):/build/mnt \
 		$(REGISTRY)/$(BUILD_ENV_IMAGE_NAME):$(BUILD_ENV_TAG) \
 		/build/mnt/build.sh
+
+docker:
+	$(DOCKER) build \
+		-t $(REGISTRY)/$(TEST_IMAGE_NAME) \
+		-t $(REGISTRY)/$(TEST_IMAGE_NAME):$(TEST_TAG) \
+		-f $(DOCKERFILE) \
+		$(ROOT_DIR)
+
+push:
+		$(DOCKER) push $(REGISTRY)/$(TEST_IMAGE_NAME)
+		$(DOCKER) push $(REGISTRY)/$(TEST_IMAGE_NAME):$(TEST_TAG)
 
 clean:
 	rm -rf target
